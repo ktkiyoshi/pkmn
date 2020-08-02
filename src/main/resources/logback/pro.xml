@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<included>
+    <logger name="com.ktkiyoshi.pkmn" level="INFO">
+        <appender-ref ref="FILE"/>
+    </logger>
+
+    <logger name="org.springframework" level="INFO">
+        <appender-ref ref="FILE"/>
+    </logger>
+</included>
